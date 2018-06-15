@@ -7,7 +7,7 @@ OpenWeatherMap API is a set of programming instruction and methods to collect th
 # Package Structure  
 subject to change  
 
-'''
+```
 .  
 ├── src  
 |   ├── View  
@@ -18,7 +18,7 @@ subject to change
 |       └── Weather.java  
 |  
 └── README.md  
-'''  
+```  
 
 # Checklist  
 - Interface  
